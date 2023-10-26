@@ -22,26 +22,6 @@ public class MainClass {
         personList.add(student4);
         Person.printALL(personList);
 
-            /*
-
-
-
-
-
-
-            ArrayList<Person> personList = new ArrayList<>();
-
-            personList.add(professor1);
-            personList.add(professor2);
-            personList.add(student1);
-            personList.add(student2);
-            personList.add(student3);
-            personList.add(student4);
-
-            Person.printALL(personList);
-
-
-        } */
     }
 }
 
